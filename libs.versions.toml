@@ -1,0 +1,7 @@
+[versions]
+kotlin = "KOTLIN_VERSION"
+agp = "AGP_VERSION"
+
+[libraries]
+kotlin-stdlib = { module = "org.jetbrains.kotlin:kotlin-stdlib", version.ref = "kotlin" }
+
